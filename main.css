@@ -1,0 +1,40 @@
+div(.uno){
+	width: 200px;
+	height: 120px;
+	background-color: pink;
+	border: 2px solid blue;
+}
+.floating{
+	float: left;
+}
+.uno{
+	background-color: gray;
+	
+	width: 500px;
+	height: 200px;
+	
+}
+
+.clearfix {
+	overflow: auto;
+	zoom:1;
+}
+.inline{
+	background-color: yellow;
+	padding:10px;
+	width: 50px;
+	height: 50px;
+	margin: 50px;
+}
+div(.inline){
+	margin:11px;
+}
+
+
+
+
+
+
+
+
+
